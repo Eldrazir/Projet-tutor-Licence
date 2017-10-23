@@ -1,0 +1,29 @@
+#conteneur
+{
+	display : flex;
+	flex-direction:column;
+	border : solid 2px gray;
+	padding: 30px;
+	width:10 px;
+}
+
+.element
+{
+	margin:auto;
+}
+
+h1
+{
+	font-style: bold;
+}
+
+body
+{
+	background-color: #30343F;
+	color : white;
+}
+
+div
+{
+	background-color: #ADD9F4;
+}
